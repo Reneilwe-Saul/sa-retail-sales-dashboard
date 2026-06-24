@@ -38,7 +38,7 @@ digging through raw spreadsheets.
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot]([screenshots/dashboard_full.png](https://github.com/Reneilwe-Saul/sa-retail-sales-dashboard/commit/d45acc32ef245ebe23d571f65dfd944b93129d35#diff-606240193b4c5331fa37dc42dd97084d8ab985694c405b990a78ceceb8bb6e5e))
+![Dashboard Screenshot](screenshot/dashboard_full.png)
 
 ---
 
