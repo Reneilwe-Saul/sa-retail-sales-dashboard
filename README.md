@@ -38,7 +38,7 @@ digging through raw spreadsheets.
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](C:\Users\ReneilweSaul\OneDrive - Praesignis\Desktop\Retail Sales Dashboard\Screenshot)
+![Dashboard Screenshot](screenshots/dashboard_full.png)
 
 ---
 
