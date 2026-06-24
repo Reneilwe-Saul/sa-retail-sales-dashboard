@@ -38,7 +38,7 @@ digging through raw spreadsheets.
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](screenshot/dashboard_full.png)
+![Dashboard Screenshot](Screenshot/dashboard_full.png)
 
 ---
 
